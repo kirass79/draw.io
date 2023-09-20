@@ -1,32 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2023-09-20T06:44:26.541Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Whale/3.22.205.18 Safari/537.36" etag="klFs1B8uc6wnfiVuKucj" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-20T06:45:23.021Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Whale/3.22.205.18 Safari/537.36" etag="w7vK9hWsXj-MfeLhu5pI" version="21.7.5" type="github">
   <diagram name="페이지-1" id="A2mZg5_CzM6SbHUTz9Lb">
-    <mxGraphModel dx="425" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1387" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="kALwG-dQVVFzzXNTB5KC-1" value="대면협박" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kALwG-dQVVFzzXNTB5KC-1" value="대면협박" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#91FF80;" vertex="1" parent="1">
           <mxGeometry x="30" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kALwG-dQVVFzzXNTB5KC-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kALwG-dQVVFzzXNTB5KC-2" target="kALwG-dQVVFzzXNTB5KC-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kALwG-dQVVFzzXNTB5KC-2" value="대면욕설(음성)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kALwG-dQVVFzzXNTB5KC-2" value="대면욕설(음성)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66FFB3;" vertex="1" parent="1">
           <mxGeometry x="30" y="180" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="kALwG-dQVVFzzXNTB5KC-3" value="다수녹음파일" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kALwG-dQVVFzzXNTB5KC-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kALwG-dQVVFzzXNTB5KC-5" target="kALwG-dQVVFzzXNTB5KC-6">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="kALwG-dQVVFzzXNTB5KC-5" value="폭력&lt;br&gt;(방문부수기)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="310" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="kALwG-dQVVFzzXNTB5KC-6" value="녹음파일" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="310" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="kALwG-dQVVFzzXNTB5KC-8" value="동생(박승언)에&lt;br&gt;폭력행위" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kALwG-dQVVFzzXNTB5KC-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kALwG-dQVVFzzXNTB5KC-9" target="kALwG-dQVVFzzXNTB5KC-10">
           <mxGeometry relative="1" as="geometry" />
@@ -34,20 +22,8 @@
         <mxCell id="kALwG-dQVVFzzXNTB5KC-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kALwG-dQVVFzzXNTB5KC-9" target="kALwG-dQVVFzzXNTB5KC-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kALwG-dQVVFzzXNTB5KC-9" value="정보통신망법&lt;br&gt;모욕등" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="540" width="110" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="kALwG-dQVVFzzXNTB5KC-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kALwG-dQVVFzzXNTB5KC-10" target="kALwG-dQVVFzzXNTB5KC-19">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="kALwG-dQVVFzzXNTB5KC-10" value="공포심을 불러일으키는 문언 반복적 송부" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="480" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="kALwG-dQVVFzzXNTB5KC-12" value="명예훼손&lt;br&gt;(사실적시)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="585" width="110" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="kALwG-dQVVFzzXNTB5KC-14" value="신용카드부정사용" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kALwG-dQVVFzzXNTB5KC-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kALwG-dQVVFzzXNTB5KC-15" target="kALwG-dQVVFzzXNTB5KC-16">
           <mxGeometry relative="1" as="geometry" />
@@ -58,7 +34,31 @@
         <mxCell id="kALwG-dQVVFzzXNTB5KC-16" value="강요죄&lt;br&gt;형법 324조" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kALwG-dQVVFzzXNTB5KC-19" value="협박문자메시지" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="kALwG-dQVVFzzXNTB5KC-3" value="다수녹음파일" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#66FFFF;" vertex="1" parent="1">
+          <mxGeometry x="235" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kALwG-dQVVFzzXNTB5KC-5" value="폭력&lt;br&gt;(방문부수기)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66FFFF;" vertex="1" parent="1">
+          <mxGeometry x="30" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kALwG-dQVVFzzXNTB5KC-6" value="녹음파일" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66FFFF;" vertex="1" parent="1">
+          <mxGeometry x="230" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kALwG-dQVVFzzXNTB5KC-8" value="동생(박승언)에&lt;br&gt;폭력행위" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66FFFF;" vertex="1" parent="1">
+          <mxGeometry x="30" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kALwG-dQVVFzzXNTB5KC-9" value="정보통신망법&lt;br&gt;모욕등" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66FFFF;" vertex="1" parent="1">
+          <mxGeometry x="40" y="540" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kALwG-dQVVFzzXNTB5KC-10" value="공포심을 불러일으키는 문언 반복적 송부" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66FFFF;" vertex="1" parent="1">
+          <mxGeometry x="230" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kALwG-dQVVFzzXNTB5KC-12" value="명예훼손&lt;br&gt;(사실적시)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66FFFF;" vertex="1" parent="1">
+          <mxGeometry x="240" y="585" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kALwG-dQVVFzzXNTB5KC-14" value="신용카드부정사용" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66FFFF;" vertex="1" parent="1">
+          <mxGeometry x="30" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kALwG-dQVVFzzXNTB5KC-19" value="협박문자메시지" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#66FFFF;" vertex="1" parent="1">
           <mxGeometry x="430" y="480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
